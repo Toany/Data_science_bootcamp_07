@@ -11,3 +11,5 @@ All my data projects in the bootcamp
 - Python
 - Python for Data Analyst
 - Dashboard
+
+Verified Badge: https://badgr.com/public/assertions/1ne__0A8RUKjB_yweQhTOA
